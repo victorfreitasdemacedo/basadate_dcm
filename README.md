@@ -1,8 +1,8 @@
 # DCM DataBase
 
-#### Requesitos
-1. Utilização do sitema Debian
-2. Instalar a depedencia dcmtk
+#### Requisitos
+1. Utilização do sistema Debian
+2. Instalar a dependência dcmtk
     ~~~bash
     sudo apt-get install -y dcmtk
     ~~~
